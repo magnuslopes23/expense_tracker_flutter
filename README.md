@@ -1,4 +1,5 @@
 # expense_tracker
+A mobile appliction built on flutter and dart which keeps track of daily expenses. One can add expenses or delete them.
 
 A new Flutter project.
 
